@@ -1,0 +1,26 @@
+17:19:40.702 [main] INFO  orgTests.LoginPageTest - User logged into system
+17:19:40.864 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+17:19:48.690 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+17:23:10.096 [main] INFO  orgTests.LoginPageTest - User entered username
+17:23:16.922 [main] INFO  orgTests.LoginPageTest - User entered password
+17:23:21.060 [main] INFO  orgTests.LoginPageTest - User submitted successfully
+17:23:21.158 [main] INFO  orgTests.LoginPageTest - User logged into system
+17:23:21.315 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+17:23:22.736 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+17:23:23.953 [main] INFO  orgTests.LoginPageTest - User loggedout from system successfully
+17:23:24.121 [main] INFO  orgTests.LoginPageTest - User entered username
+17:23:24.202 [main] INFO  orgTests.LoginPageTest - User entered password
+17:23:25.654 [main] INFO  orgTests.LoginPageTest - User submitted successfully
+17:23:25.703 [main] INFO  orgTests.LoginPageTest - User logged into system
+17:23:25.772 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+17:23:25.835 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+17:23:28.851 [main] INFO  orgTests.LoginPageTest - User loggedout from system successfully
+17:29:53.762 [main] INFO  orgTests.LoginPageTest - User entered username
+17:29:59.984 [main] INFO  orgTests.LoginPageTest - User entered password
+17:30:04.769 [main] INFO  orgTests.LoginPageTest - User submitted successfully
+17:30:07.931 [main] INFO  orgTests.LoginPageTest - User logged into system
+17:30:08.101 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+17:30:16.396 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+17:43:53.763 [main] INFO  orgTests.LoginPageTest - User entered username
+17:44:00.615 [main] INFO  orgTests.LoginPageTest - User entered password
+17:44:04.949 [main] INFO  orgTests.LoginPageTest - User submitted successfully

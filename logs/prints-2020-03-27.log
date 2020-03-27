@@ -1,0 +1,25 @@
+13:26:25.512 [main] INFO  orgTests.LoginPageTest - User logged into system
+13:26:25.691 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+13:26:33.155 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+13:34:10.128 [main] INFO  orgTests.LoginPageTest - User entered username
+13:34:10.190 [main] INFO  orgTests.LoginPageTest - User entered password
+13:34:14.419 [main] INFO  orgTests.LoginPageTest - User submitted successfully
+13:34:14.475 [main] INFO  orgTests.LoginPageTest - User logged into system
+13:34:14.582 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+13:34:14.645 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+13:34:15.746 [main] INFO  orgTests.LoginPageTest - User loggedout from system successfully
+13:34:15.876 [main] INFO  orgTests.LoginPageTest - User entered username
+13:34:15.934 [main] INFO  orgTests.LoginPageTest - User entered password
+13:34:17.109 [main] INFO  orgTests.LoginPageTest - User submitted successfully
+13:34:17.142 [main] INFO  orgTests.LoginPageTest - User logged into system
+13:34:17.196 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+13:34:17.256 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+13:34:19.354 [main] INFO  orgTests.LoginPageTest - User loggedout from system successfully
+15:01:28.729 [main] INFO  orgTests.LoginPageTest - User entered username
+15:01:28.798 [main] INFO  orgTests.LoginPageTest - User entered password
+15:01:33.496 [main] INFO  orgTests.LoginPageTest - User submitted successfully
+15:01:33.557 [main] INFO  orgTests.LoginPageTest - User logged into system
+15:01:33.692 [main] ERROR orgTests.LoginPageTest - User will click the welcome button
+15:01:33.745 [main] DEBUG orgTests.LoginPageTest - User will click the logout
+15:01:34.903 [main] INFO  orgTests.LoginPageTest - User loggedout from system successfully
+15:01:35.013 [main] INFO  orgTests.LoginPageTest - User entered username
