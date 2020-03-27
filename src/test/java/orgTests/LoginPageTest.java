@@ -35,7 +35,7 @@ public class LoginPageTest extends browserSelection {
 			log.info("User submitted successfully");
 			if (login.welcome()) {
 				log.info("User logged into system");
-				writeData("Sheet4", "Value.xlsx", i, 3, "Test Passed");
+				writeData("Sheet4", "Value.xlsx", i, 2, "Test Passed");
 				login.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 				log.error("User will click the welcome button");
 				login.welcomeClick(); 
